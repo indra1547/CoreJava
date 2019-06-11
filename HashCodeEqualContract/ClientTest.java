@@ -3,7 +3,7 @@ package com.indra.CoreJava.EqaulsContract;
 import java.util.HashSet;
 import java.util.Set;
 
-public class ClientTet {
+public class ClientTest {
 
 	public static void main(String[] args) {
 		Employee emp1 = new Employee();
