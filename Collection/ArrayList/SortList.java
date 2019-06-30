@@ -22,6 +22,9 @@ public class SortList {
 				return b-a;
 			}
 		});
+		/*Above to 2o to 24 lines of code can be replace with below one line 
+		list.sort((a,b) -> Integer.compare(b, a));
+		*/
 		list1.sort(null);
 		System.out.println("List in ascending order"+ list1);
 		System.out.println("List in descending order"+ list);
