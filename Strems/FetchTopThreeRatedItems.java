@@ -30,38 +30,6 @@ public class FetchTopThreeRatedItems {
 			this.ratings = ratings;
 			this.isLuxury = isLuxury;
 		}
-
-		public Integer getItemId() {
-			return itemId;
-		}
-
-		public void setItemId(Integer itemId) {
-			this.itemId = itemId;
-		}
-
-		public String getItemName() {
-			return itemName;
-		}
-
-		public void setItemName(String itemName) {
-			this.itemName = itemName;
-		}
-
-		public Float getRatings() {
-			return ratings;
-		}
-
-		public void setRatings(Float ratings) {
-			this.ratings = ratings;
-		}
-
-		public Boolean getIsLuxury() {
-			return isLuxury;
-		}
-
-		public void setIsLuxury(Boolean isLuxury) {
-			this.isLuxury = isLuxury;
-		}
 	}
 
 	public static void main(String[] args) {
